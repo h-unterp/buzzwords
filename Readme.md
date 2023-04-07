@@ -13,9 +13,8 @@
 ## Areas for improvement:
 
 1. Statistical analysis (frequency/importance)
-2. ensure capitalization is handled
-3. partial word matches
-4. Document corpus (crowdsource/web crawler/API/Partnership) from which to derive buzzwords. 
+2. partial word matches
+3. Document corpus (crowdsource/web crawler/API/Partnership) from which to derive buzzwords. 
 
 ## Document Corpus Ideas
   * MVP should be crowdsource model (users able to submit job descriptions via form)
