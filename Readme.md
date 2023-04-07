@@ -5,7 +5,7 @@
 
 ## UX ideas:
 1. 2nd "page" to show results, back button to go back to start.
-2. Highlighting of buzzwords in results
+2. Highlighting of buzzwords on resume.
 3. Cookies to save state.
 4. Ability to add/remove individual buzzwords
 5. Accept PDF and transform to plaintext
