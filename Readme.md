@@ -10,7 +10,7 @@ res.txt is your resume (don't worry about formatting, just copy/paste it from pd
 ```
 
 ## UX ideas:
-1. Web UI (hosting via github pages)
+1. Web UI (hosting via github pages) would need to rewrite in js
 2. Cookies to save state.
 3. Ability to add/remove individual buzzwords
 4. Accept PDF and transform to plaintext
@@ -21,3 +21,8 @@ res.txt is your resume (don't worry about formatting, just copy/paste it from pd
 2. ensure capitalization is handled
 3. partial word matches
 4. Document corpus (crowdsource/web crawler/API/Partnership) from which to derive buzzwords. 
+
+## Document Corpus Ideas
+  * MVP should be crowdsource model (users able to submit job descriptions via form)
+  * Need algorithm to parse out keywords
+  * Need datastore to save, rank (by frequency) keywords
