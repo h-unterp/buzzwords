@@ -4,7 +4,7 @@
 ## See project here: https://h-unterp.github.io/buzzwords/ 
 
 ## UX ideas:
-1. Web UI (hosting via github pages) would need to rewrite in js
+1. 2nd "page" to show results, back button to go back to start.
 2. Cookies to save state.
 3. Ability to add/remove individual buzzwords
 4. Accept PDF and transform to plaintext
