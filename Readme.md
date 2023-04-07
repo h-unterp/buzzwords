@@ -1,5 +1,5 @@
 
-#Given a list of buzzwords and a resume find all the buzzwords that your resume contains, and all buzzwords it is missing.
+**Given a list of buzzwords and a resume find all the buzzwords that your resume contains, and all buzzwords it is missing.
 
 
 example usage:  python buzz.txt res.txt
