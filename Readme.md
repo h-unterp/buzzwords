@@ -1,5 +1,5 @@
 
-# Find all the buzzwords that your resume contains, and all buzzwords it is missing.
+# Find all the buzzwords your resume contains, and all it's missing.
 
 ## See project here: https://h-unterp.github.io/buzzwords/ 
 
