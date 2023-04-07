@@ -9,7 +9,7 @@ res.txt is your resume (don't worry about formatting, just copy/paste it from pd
 ```
 
 ## UX ideas:
-1. Web UI
+1. Web UI (hosting via github pages)
 2. Cookies to save state.
 3. Ability to add/remove individual buzzwords
 4. Accept PDF and transform to plaintext
