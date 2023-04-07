@@ -2,7 +2,7 @@ function checkBuzzwords(buzzwords, body) {
   var missingBuzzwords = [];
   var hasBuzzwords = [];
   for (var i = 0; i < buzzwords.length; i++) {
-    var word = buzzwords[i];
+    var word = buzzwords[i].toLowerCase();
     if (body.indexOf(word) === -1) {
       missingBuzzwords.push(word);
     } else {
@@ -30,7 +30,7 @@ $(document).ready(function () {
     var body = $("#resume-text").val();
 
     // Call the buzzword checker function with the buzzwords and resume contents
-    var result = checkBuzzwords(buzzwords, body);
+    var result = checkBuzzwords(buzzwords, body.toLowerCase());
     // Display the result
     $("#result").empty();
     $("#result").append("<h2>Has buzzwords:</h2>");
