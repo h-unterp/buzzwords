@@ -23,6 +23,6 @@ res.txt is your resume (don't worry about formatting, just copy/paste it from pd
 4. Document corpus (crowdsource/web crawler/API/Partnership) from which to derive buzzwords. 
 
 ## Document Corpus Ideas
-  MVP should be crowdsource model (users able to submit job descriptions via form)
-  Need algorithm to parse out keywords
-  Need datastore to save, rank (by frequency) keywords
+  * MVP should be crowdsource model (users able to submit job descriptions via form)
+  * Need algorithm to parse out keywords
+  * Need datastore to save, rank (by frequency) keywords
