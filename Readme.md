@@ -5,9 +5,10 @@
 
 ## UX ideas:
 1. 2nd "page" to show results, back button to go back to start.
-2. Cookies to save state.
-3. Ability to add/remove individual buzzwords
-4. Accept PDF and transform to plaintext
+2. Highlighting of buzzwords in results
+3. Cookies to save state.
+4. Ability to add/remove individual buzzwords
+5. Accept PDF and transform to plaintext
 
 ## Areas for improvement:
 
